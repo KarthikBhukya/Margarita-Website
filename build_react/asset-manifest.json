@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba70d055.css",
+    "main.js": "/static/js/main.09272a9b.js",
+    "static/js/787.6131badd.chunk.js": "/static/js/787.6131badd.chunk.js",
+    "static/media/diaz4.png": "/static/media/diaz4.26712d29fca8e552b11d.png",
+    "static/media/diaz5.png": "/static/media/diaz5.23ce87a49834b7ddd942.png",
+    "static/media/diaz3.png": "/static/media/diaz3.1fd3596d632dd5ec1193.png",
+    "index.html": "/index.html",
+    "main.ba70d055.css.map": "/static/css/main.ba70d055.css.map",
+    "main.09272a9b.js.map": "/static/js/main.09272a9b.js.map",
+    "787.6131badd.chunk.js.map": "/static/js/787.6131badd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba70d055.css",
+    "static/js/main.09272a9b.js"
+  ]
+}
